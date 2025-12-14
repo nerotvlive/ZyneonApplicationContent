@@ -1,7 +1,7 @@
 {
   "updater": {
-    "version": "f",
-    "download": "https://github.com/danieldieeins/ZyneonApplicationContent/raw/refs/heads/main/i/ZyneonApplication.jar",
+    "version": "2026.1-beta.7",
+    "download": "https://b.nerotv.live/public/scripts/install/nexus/nexus-app.jar",
     "installed": "0"
   },
   "message": {
