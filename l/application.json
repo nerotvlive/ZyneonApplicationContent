@@ -1,7 +1,7 @@
 {
   "updater": {
-    "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.2",
-    "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-2026.1-SNAPSHOT.2.jar",
+    "version": "BT-26.1-pre.2",
+    "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/executables/bootstrapper-26.1-pre.2.jar",
     "installed": "0"
   }
 }
