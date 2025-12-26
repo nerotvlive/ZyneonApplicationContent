@@ -1,7 +1,7 @@
 {
   "launcher": {
-    "version": "2026.1-beta.8-pre.5",
-    "download": "https://b.nerotv.live/public/scripts/install/nexus/nexus-app.jar",
+    "version": "BOOTSTRAPPER-2026.1-SNAPSHOT.1f",
+    "download": "https://github.com/zyneonstudios/nexus-nex/raw/refs/heads/main/application/bootstrapper-2026.1-SNAPSHOT.1.jar",
     "installed": "0"
   }
 }
